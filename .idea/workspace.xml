@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="OkHttp:" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ebae13c8-5867-4807-8e17-35764ae89f99" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Nexus_2]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Object" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21T9blOv4ZPDZ5yKquOjBWVetCN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/test/java/com/test/products/domain" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/java/com/test/products/common" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.test.products.common" />
+      <recent name="com.test.products.presentation.productsList" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.test.products.domain.mappers" />
+      <recent name="com.test.products.presentation.productsList" />
+      <recent name="com.test.products.data.repo" />
+      <recent name="com.test.products.domain.useCase.productsUseCase" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.test.products.presentation.base" />
+      <recent name="com.test.products" />
+      <recent name="com.test.products.di" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="android.template.124107054">
+      <recent name="com.test.products.presentation.ProductDetails" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.test.products" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\androidProjects\myProojects\Products\app\src\main\java\com\test\products\common" />
+      <recent name="E:\androidProjects\myProojects\Products\app\src\test\java\com\test\products" />
+      <recent name="E:\androidProjects\myProojects\Products\app\src\main\res\drawable" />
+      <recent name="E:\androidProjects\myProojects\Products\app\src\main\java\com\test\products\di" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="GetProductsUseCaseTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Products.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.products.domain.useCase.productsUseCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.products.domain.useCase.productsUseCase" />
+      <option name="MAIN_CLASS_NAME" value="com.test.products.domain.useCase.productsUseCase.GetProductsUseCaseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductListViewModelTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Products.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.products.presentation.productsList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.products.presentation.productsList" />
+      <option name="MAIN_CLASS_NAME" value="com.test.products.presentation.productsList.ProductListViewModelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductListViewModelTest.When_Loading_list_of_Products" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Products.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.products.presentation.productsList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.products.presentation.productsList" />
+      <option name="MAIN_CLASS_NAME" value="com.test.products.presentation.productsList.ProductListViewModelTest" />
+      <option name="METHOD_NAME" value="When_Loading_list_of_Products" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductListViewModelTest.When_response_is_not_successful_with_an_error" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Products.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.products.presentation.productsList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.products.presentation.productsList" />
+      <option name="MAIN_CLASS_NAME" value="com.test.products.presentation.productsList.ProductListViewModelTest" />
+      <option name="METHOD_NAME" value="When_response_is_not_successful_with_an_error" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductListViewModelTest.When_response_is_successful_Then_return_the_right_list_of_Products" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Products.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.products.presentation.productsList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.products.presentation.productsList" />
+      <option name="MAIN_CLASS_NAME" value="com.test.products.presentation.productsList.ProductListViewModelTest" />
+      <option name="METHOD_NAME" value="When_response_is_successful_Then_return_the_right_list_of_Products" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Products.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.ProductListViewModelTest" />
+        <item itemvalue="Android JUnit.ProductListViewModelTest.When_response_is_successful_Then_return_the_right_list_of_Products" />
+        <item itemvalue="Android JUnit.ProductListViewModelTest.When_Loading_list_of_Products" />
+        <item itemvalue="Android JUnit.ProductListViewModelTest.When_response_is_not_successful_with_an_error" />
+        <item itemvalue="Android JUnit.GetProductsUseCaseTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebae13c8-5867-4807-8e17-35764ae89f99" name="Default Changelist" comment="" />
+      <created>1637954283209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637954283209</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="370" y="30" key="#ProductListViewModelTest.When_Loading_list_of_Products" timestamp="1638532325406">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="370" y="30" key="#ProductListViewModelTest.When_Loading_list_of_Products/0.0.1536.824@0.0.1536.824" timestamp="1638532325406" />
+    <state x="100" y="100" width="1336" height="624" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1638212572014">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="100" y="100" width="1336" height="624" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1638212572014" />
+    <state x="560" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1638048567756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="560" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1638048567756" />
+    <state x="591" y="336" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1638135051021">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="591" y="336" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1638135051021" />
+    <state x="497" y="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1638135056166">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="497" y="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1638135056166" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1638047606221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1638047606221" />
+    <state x="548" y="203" width="459" height="417" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1638530369052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="203" width="459" height="417" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1638530369052" />
+    <state x="614" y="215" key="AndroidCreateXmlResourceDialog" timestamp="1638049014375">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="614" y="215" key="AndroidCreateXmlResourceDialog/0.0.1536.824@0.0.1536.824" timestamp="1638049014375" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1638208457403">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1638208457403" />
+    <state width="1476" height="217" key="GridCell.Tab.0.bottom" timestamp="1638542164752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="217" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1638542164752" />
+    <state width="1476" height="217" key="GridCell.Tab.0.center" timestamp="1638542164751">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="217" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1638542164751" />
+    <state width="1476" height="217" key="GridCell.Tab.0.left" timestamp="1638542164751">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="217" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1638542164751" />
+    <state width="1476" height="217" key="GridCell.Tab.0.right" timestamp="1638542164752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="217" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1638542164752" />
+    <state x="584" y="190" key="chooseDestDirectoryDialog" timestamp="1638293996168">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="584" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1638293996168" />
+    <state x="316" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1638532048381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="316" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1638532048381" />
+    <state x="474" y="145" width="588" height="592" key="find.popup" timestamp="1638534587308">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="474" y="145" width="588" height="592" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1638534587308" />
+    <state x="486" y="222" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1638293996222">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="486" y="222" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1638293996222" />
+    <state x="492" y="183" key="refactoring.ChangeSignatureDialog" timestamp="1638033008635">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="492" y="183" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1638033008635" />
+    <state x="426" y="189" key="run.anything.popup" timestamp="1637959253071">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1637959253071" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Products$ProductListViewModelTest_When_Loading_list_of_Products.ic" NAME="ProductListViewModelTest.When_Loading_list_of_Products Coverage Results" MODIFIED="1638532066401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.test.products.presentation.productsList.*</FILTER>
+    </SUITE>
+  </component>
+</project>

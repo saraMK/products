@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.marcinOz:TestCoroutineRule:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8210bb5910fcf5e7c285b6c8617be98b/jetified-TestCoroutineRule-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8210bb5910fcf5e7c285b6c8617be98b/jetified-TestCoroutineRule-1.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8210bb5910fcf5e7c285b6c8617be98b/jetified-TestCoroutineRule-1.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.marcinOz/TestCoroutineRule/1.0.1/571eea07a9e69fc8799b8e866b9460aa81ac9965/TestCoroutineRule-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
